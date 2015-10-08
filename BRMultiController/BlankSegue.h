@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BlankSegue.h
 //  BRContainerController
 //
 //  Created by Bharath V on 14/08/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BlankSegue : UIStoryboardSegue
 
 @end
-

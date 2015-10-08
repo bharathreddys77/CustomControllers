@@ -15,6 +15,21 @@
 		8759C8171BC68EFD009EA43C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8759C8151BC68EFD009EA43C /* LaunchScreen.storyboard */; };
 		8759C8221BC68EFD009EA43C /* BRMultiControllerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C8211BC68EFD009EA43C /* BRMultiControllerTests.m */; };
 		8759C82D1BC68EFD009EA43C /* BRMultiControllerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C82C1BC68EFD009EA43C /* BRMultiControllerUITests.m */; };
+		8759C8441BC6A130009EA43C /* BlankSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C83B1BC6A130009EA43C /* BlankSegue.m */; settings = {ASSET_TAGS = (); }; };
+		8759C8451BC6A130009EA43C /* BlankSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C83B1BC6A130009EA43C /* BlankSegue.m */; settings = {ASSET_TAGS = (); }; };
+		8759C8461BC6A130009EA43C /* BlankSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C83B1BC6A130009EA43C /* BlankSegue.m */; settings = {ASSET_TAGS = (); }; };
+		8759C8471BC6A130009EA43C /* BRContainerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C83D1BC6A130009EA43C /* BRContainerViewController.m */; settings = {ASSET_TAGS = (); }; };
+		8759C8481BC6A130009EA43C /* BRContainerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C83D1BC6A130009EA43C /* BRContainerViewController.m */; settings = {ASSET_TAGS = (); }; };
+		8759C8491BC6A130009EA43C /* BRContainerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C83D1BC6A130009EA43C /* BRContainerViewController.m */; settings = {ASSET_TAGS = (); }; };
+		8759C84A1BC6A130009EA43C /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C83F1BC6A130009EA43C /* FirstViewController.m */; settings = {ASSET_TAGS = (); }; };
+		8759C84B1BC6A130009EA43C /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C83F1BC6A130009EA43C /* FirstViewController.m */; settings = {ASSET_TAGS = (); }; };
+		8759C84C1BC6A130009EA43C /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C83F1BC6A130009EA43C /* FirstViewController.m */; settings = {ASSET_TAGS = (); }; };
+		8759C84D1BC6A130009EA43C /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C8411BC6A130009EA43C /* SecondViewController.m */; settings = {ASSET_TAGS = (); }; };
+		8759C84E1BC6A130009EA43C /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C8411BC6A130009EA43C /* SecondViewController.m */; settings = {ASSET_TAGS = (); }; };
+		8759C84F1BC6A130009EA43C /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C8411BC6A130009EA43C /* SecondViewController.m */; settings = {ASSET_TAGS = (); }; };
+		8759C8501BC6A130009EA43C /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C8431BC6A130009EA43C /* ThirdViewController.m */; settings = {ASSET_TAGS = (); }; };
+		8759C8511BC6A130009EA43C /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C8431BC6A130009EA43C /* ThirdViewController.m */; settings = {ASSET_TAGS = (); }; };
+		8759C8521BC6A130009EA43C /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8759C8431BC6A130009EA43C /* ThirdViewController.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +66,16 @@
 		8759C8281BC68EFD009EA43C /* BRMultiControllerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BRMultiControllerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8759C82C1BC68EFD009EA43C /* BRMultiControllerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BRMultiControllerUITests.m; sourceTree = "<group>"; };
 		8759C82E1BC68EFD009EA43C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8759C83A1BC6A130009EA43C /* BlankSegue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BlankSegue.h; sourceTree = "<group>"; };
+		8759C83B1BC6A130009EA43C /* BlankSegue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BlankSegue.m; sourceTree = "<group>"; };
+		8759C83C1BC6A130009EA43C /* BRContainerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRContainerViewController.h; sourceTree = "<group>"; };
+		8759C83D1BC6A130009EA43C /* BRContainerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRContainerViewController.m; sourceTree = "<group>"; };
+		8759C83E1BC6A130009EA43C /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		8759C83F1BC6A130009EA43C /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		8759C8401BC6A130009EA43C /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		8759C8411BC6A130009EA43C /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		8759C8421BC6A130009EA43C /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		8759C8431BC6A130009EA43C /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +126,16 @@
 		8759C8061BC68EFD009EA43C /* BRMultiController */ = {
 			isa = PBXGroup;
 			children = (
+				8759C83A1BC6A130009EA43C /* BlankSegue.h */,
+				8759C83B1BC6A130009EA43C /* BlankSegue.m */,
+				8759C83C1BC6A130009EA43C /* BRContainerViewController.h */,
+				8759C83D1BC6A130009EA43C /* BRContainerViewController.m */,
+				8759C83E1BC6A130009EA43C /* FirstViewController.h */,
+				8759C83F1BC6A130009EA43C /* FirstViewController.m */,
+				8759C8401BC6A130009EA43C /* SecondViewController.h */,
+				8759C8411BC6A130009EA43C /* SecondViewController.m */,
+				8759C8421BC6A130009EA43C /* ThirdViewController.h */,
+				8759C8431BC6A130009EA43C /* ThirdViewController.m */,
 				8759C80A1BC68EFD009EA43C /* AppDelegate.h */,
 				8759C80B1BC68EFD009EA43C /* AppDelegate.m */,
 				8759C80D1BC68EFD009EA43C /* ViewController.h */,
@@ -270,9 +305,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8759C8441BC6A130009EA43C /* BlankSegue.m in Sources */,
+				8759C84A1BC6A130009EA43C /* FirstViewController.m in Sources */,
+				8759C8501BC6A130009EA43C /* ThirdViewController.m in Sources */,
 				8759C80F1BC68EFD009EA43C /* ViewController.m in Sources */,
+				8759C84D1BC6A130009EA43C /* SecondViewController.m in Sources */,
 				8759C80C1BC68EFD009EA43C /* AppDelegate.m in Sources */,
 				8759C8091BC68EFD009EA43C /* main.m in Sources */,
+				8759C8471BC6A130009EA43C /* BRContainerViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,7 +320,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8759C84E1BC6A130009EA43C /* SecondViewController.m in Sources */,
+				8759C8451BC6A130009EA43C /* BlankSegue.m in Sources */,
+				8759C8511BC6A130009EA43C /* ThirdViewController.m in Sources */,
 				8759C8221BC68EFD009EA43C /* BRMultiControllerTests.m in Sources */,
+				8759C8481BC6A130009EA43C /* BRContainerViewController.m in Sources */,
+				8759C84B1BC6A130009EA43C /* FirstViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,7 +333,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8759C84F1BC6A130009EA43C /* SecondViewController.m in Sources */,
+				8759C8461BC6A130009EA43C /* BlankSegue.m in Sources */,
+				8759C8521BC6A130009EA43C /* ThirdViewController.m in Sources */,
 				8759C82D1BC68EFD009EA43C /* BRMultiControllerUITests.m in Sources */,
+				8759C8491BC6A130009EA43C /* BRContainerViewController.m in Sources */,
+				8759C84C1BC6A130009EA43C /* FirstViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -498,6 +548,7 @@
 				8759C8331BC68EFD009EA43C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8759C8341BC68EFD009EA43C /* Build configuration list for PBXNativeTarget "BRMultiControllerTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +557,7 @@
 				8759C8361BC68EFD009EA43C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8759C8371BC68EFD009EA43C /* Build configuration list for PBXNativeTarget "BRMultiControllerUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +566,7 @@
 				8759C8391BC68EFD009EA43C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
